@@ -45,17 +45,20 @@ form{
     width: 350px;
     border-radius: 3px;
     background-color: white;
-    opacity: 0.9;
+   
 }
 button{
 vertical-align: middle;
 background-color:red ;
 display: flex;
-margin:  auto;
+margin: auto;
+margin-top: 10px;
+margin-bottom: 10px;
 width: 20%;
 padding: 7px;
 border-radius: 15px;
 color: white;
+padding-left:17px;
 
     
 }
